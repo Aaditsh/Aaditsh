@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Aadit Sharma
-- 👀 I’m interested in Programming, CyberSec, IOT
-- 🌱 I’m currently learning C, Arduino 
+- 👀 I’m interested in VLSI, Embedded Systems, IOT
+- 🌱 I’m currently learning C, Arduino, Verilog 
